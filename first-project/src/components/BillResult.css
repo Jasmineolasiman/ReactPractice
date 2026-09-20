@@ -1,0 +1,18 @@
+.result {
+  background: #f8fafc;
+  padding: 25px;
+  margin-top: 20px;
+  border-radius: 10px;
+  border: 2px solid #2563eb;
+}
+
+.result h2 {
+  margin-top: 0;
+}
+
+.result h3 {
+  background: #2563eb;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
